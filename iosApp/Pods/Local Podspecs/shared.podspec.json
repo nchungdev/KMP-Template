@@ -1,14 +1,14 @@
 {
   "name": "shared",
   "version": "1.0",
-  "homepage": "Link to the Shared Module homepage",
+  "homepage": "https://github.com/nchungdev/KMP_Template",
   "source": {
     "git": "Not Published",
     "tag": "Cocoapods/shared/1.0"
   },
   "authors": "",
   "license": "",
-  "summary": "Some description for the Shared Module",
+  "summary": "Common library for the KMP Template",
   "vendored_frameworks": "build/cocoapods/framework/shared.framework",
   "libraries": "c++",
   "module_name": "shared_umbrella",

@@ -2,8 +2,8 @@ package com.chun.kmptemplate.viewmodel
 
 import com.chun.kmptemplate.log
 import com.chun.kmptemplate.model.Identifiable
-import com.wind.book.viewmodel.*
-import com.wind.book.viewmodel.util.Constant
+import com.chun.kmptemplate.viewmodel.*
+import com.chun.kmptemplate.viewmodel.util.Constant
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
 

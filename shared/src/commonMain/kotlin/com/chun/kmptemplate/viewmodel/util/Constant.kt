@@ -1,4 +1,4 @@
-package com.wind.book.viewmodel.util
+package com.chun.kmptemplate.viewmodel.util
 
 object Constant {
     const val PAGE_SIZE = 20

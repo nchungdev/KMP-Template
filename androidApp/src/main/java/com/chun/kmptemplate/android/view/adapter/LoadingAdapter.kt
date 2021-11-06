@@ -1,4 +1,4 @@
-package com.wind.book.android.view.adapter
+package com.chun.kmptemplate.android.view.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
